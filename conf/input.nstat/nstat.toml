@@ -1,0 +1,7 @@
+# # collect interval
+# interval = 15
+
+proc_net_netstat = "/proc/net/netstat"
+proc_net_snmp = "/proc/net/snmp"
+proc_net_snmp6 = "/proc/net/snmp6"
+dump_zeros = true
